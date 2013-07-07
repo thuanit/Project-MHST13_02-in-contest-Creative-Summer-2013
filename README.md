@@ -1,4 +1,4 @@
-Project-MHST13-02-_-M-a-H--S-ng-T-o-2013
+Project-MHST13-02- Alfresco-Encryption-Module
 ========================================
 
 Phát triển module mã hóa trên Alfresco 
