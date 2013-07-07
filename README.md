@@ -1,4 +1,5 @@
-Project-MHST13-02- Alfresco-Encryption-Module
+MHST13-02
+Alfresco-Encryption-Module
 ========================================
 
 Phát triển module mã hóa trên Alfresco 
@@ -23,4 +24,5 @@ http://wiki.vfossa.vn/mhst:ideas:mhst2013:ecoit02
 
 Mentors:
   Mentor chính: Hoàng Chí Linh (linhhc [at] ecoit [dot] asia)
+  
   Co-mentor: Bùi Ngọc Châu, (chaubn [at] ecoit [dot] asia)
