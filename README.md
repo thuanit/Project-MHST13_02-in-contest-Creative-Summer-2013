@@ -12,6 +12,7 @@ http://wiki.vfossa.vn/mhst:ideas:mhst2013:ecoit02
 - Module mã hóa trên Alfresco phát triển đề tài “Viết module mã hóa trên Alfresco” (MHST 2012) với các tính năng cần phát triển:
   + Cải tiến thuật toán mã hóa: cho phép lựa chọn nhiều thuật toán mã hóa.
   + Cải tiến phương pháp mã hóa:
+  
       ` Cho phép sử dụng khóa công khai trong phương pháp mã hóa.` 
       ` Cho phép sử dụng các Token Key phổ biến như VNPT, Viettel… để mã hóa tài liệu`
   + Thêm tính năng quản lý khóa/token key cho người dùng.
